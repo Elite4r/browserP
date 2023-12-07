@@ -1,0 +1,9 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/2d2756505566-runtime","time":"2023-12-07T03:31:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/4fedbbaac012-runtime","time":"2023-12-07T03:31:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/64ddaee3c192-runtime","time":"2023-12-07T03:31:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/8662ea7e317a-runtime","time":"2023-12-07T03:31:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/b15d251fe8c7-runtime","time":"2023-12-07T03:31:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/bd677eaada6b-runtime","time":"2023-12-07T03:31:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/extract-zip","time":"2023-12-07T03:31:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/js-yaml","time":"2023-12-07T03:31:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/rimraf","time":"2023-12-07T03:31:23Z"}
