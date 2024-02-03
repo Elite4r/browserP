@@ -12,7 +12,8 @@
   "dependencies": {
     "@types/node": "^18.0.6",
     "node-fetch": "^3.2.6",
-    "puppeteer": "^19.7.5"
+    "puppeteer": "^19.7.5",
+    "start": "^5.1.0"
   },
   "type": "module"
 }
